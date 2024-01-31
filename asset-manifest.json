@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/phoneshop2024/static/css/main.2a6d581a.css",
-    "main.js": "/phoneshop2024/static/js/main.b8b36083.js",
+    "main.css": "/phoneshop2024/static/css/main.168adb43.css",
+    "main.js": "/phoneshop2024/static/js/main.3ae98ae1.js",
     "static/js/787.1f99ccd0.chunk.js": "/phoneshop2024/static/js/787.1f99ccd0.chunk.js",
     "static/media/product_2.png": "/phoneshop2024/static/media/product_2.1bc52f8922d488cead68.png",
     "static/media/product_3.png": "/phoneshop2024/static/media/product_3.48eda5293a6f605e73f7.png",
@@ -14,12 +14,12 @@
     "static/media/matCuoi.png": "/phoneshop2024/static/media/matCuoi.24869e49cf16c8a4804c.png",
     "static/media/logo.svg": "/phoneshop2024/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/phoneshop2024/index.html",
-    "main.2a6d581a.css.map": "/phoneshop2024/static/css/main.2a6d581a.css.map",
-    "main.b8b36083.js.map": "/phoneshop2024/static/js/main.b8b36083.js.map",
+    "main.168adb43.css.map": "/phoneshop2024/static/css/main.168adb43.css.map",
+    "main.3ae98ae1.js.map": "/phoneshop2024/static/js/main.3ae98ae1.js.map",
     "787.1f99ccd0.chunk.js.map": "/phoneshop2024/static/js/787.1f99ccd0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2a6d581a.css",
-    "static/js/main.b8b36083.js"
+    "static/css/main.168adb43.css",
+    "static/js/main.3ae98ae1.js"
   ]
 }
